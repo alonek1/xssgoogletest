@@ -1,1 +1,1 @@
-<script>alert(0);</scrip>t
+<script>alert(0);</scrip>
